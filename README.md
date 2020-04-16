@@ -16,6 +16,11 @@ ___HI I R5whos___
 
 <code>python DEAThor.py update</code>
 
+
+[___HOW TO START___]
+
+<code>python DEAThor.py start</code>
+
 [___LINK___]
 
 ___INSTAGRAM: https://www.instagram.com/young.degradant/___
