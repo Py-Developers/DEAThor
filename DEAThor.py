@@ -625,4 +625,4 @@ else:
 	if __name__ == "__main__":
 		main()
 
-__author__ = R5whos
+__author__ = "R5whos"
