@@ -20,14 +20,3 @@ ___HI I R5whos___
 [___HOW TO START___]
 
 <code>python DEAThor.py start</code>
-
-[___LINK___]
-
-___INSTAGRAM: https://www.instagram.com/young.degradant/___
-
-___TELEGRAM: @R5whos___
-
-___GITHUB: https://github.com/megalagger___
-
-
-[___GOOD TO USE!___]
